@@ -41,7 +41,7 @@ Make sure you can run `adb` and `scrcpy` from the terminal (CMD/PowerShell).
 
 ### 3. Clone the project and install dependencies
 ```bash
-git clone https://github.com/anonyme-00153](https://github.com/Anonyme-00152/FX-Toolkit.git
+git clone https://github.com/Anonyme-00152/FX-Toolkit.git
 cd FsocietyControlToolkit
 pip install -r requirements.txt
 python fsociety.py
